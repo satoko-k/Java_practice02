@@ -14,7 +14,8 @@ class Bicycle{
     public String getName(){
       return this.name;
     }
-    // color‚ÌƒQƒbƒ^[
+    
+    
     public String getColor(){
         return this.color;
     }
